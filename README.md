@@ -1,2 +1,2 @@
 # matrakci
-Simple Web App showing littice multiplication method invented by Matrakci in the 16 century.
+Simple Web App showing lattice multiplication method invented by Nasuh Matrakci from the 16 century.
